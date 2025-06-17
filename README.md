@@ -52,14 +52,6 @@ Example:
 
 ---
 
-## Future Improvements
-
-- Add password protection or login system
-- Add client transaction history
-- Use a database (e.g., SQLite) instead of plain text
-- Implement a GUI using Qt or another library
-
----
 
 ## Author
 
