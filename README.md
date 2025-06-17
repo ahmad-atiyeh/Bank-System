@@ -21,7 +21,7 @@ This is a **console-based bank management system** written in **C++** that allow
 
 ```bash
 .
-├── BankSystem.cpp         
+├── ClientsProblems.sln
 ├── clientsList.txt       
 ├── README.md       
 ```
