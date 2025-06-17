@@ -55,4 +55,4 @@ Example:
 
 ## Author
 
-Developed by [Ahmad Atiyeh].
+Developed as a console-based C++ practice project by [Ahmad Atiyeh].
